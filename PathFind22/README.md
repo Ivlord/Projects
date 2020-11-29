@@ -13,13 +13,13 @@
 <p align="center"><img src="images/pic1.png"></p>
 <p align="center">Рис 1. Начальный экран.</p>
 
-<p align="center"><img src="image/pic2.png"></p>
+<p align="center"><img src="images/pic2.png"></p>
 <p align="center">Рис 2. Выбор стартовой позиции. <br>Расчёт доступных выходов. </p>
 
-<p align="center"><img src="image/pic3.png"></p>
+<p align="center"><img src="images/pic3.png"></p>
 <p align="center">Рис 3. Просчёт и отрисовка кратчайшего пути<br> до выбранного выхода. </p>
 
-<p align="center"><img src="image/pic4.png"></p>
+<p align="center"><img src="images/pic4.png"></p>
 <p align="center">Рис 4. Старт в замкнутой области.<br> Выхода нет.</p>
 
 
