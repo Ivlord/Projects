@@ -9,4 +9,4 @@ Author: Ivan Mazlov (Мазлов Иван)<br>
 2021 | Азбука морзе для Arduino Nano | [[c++]](./MorzeArduinoNano/)
 2021 | Симулятор игры "Жизнь" ("Life" game) | [[Python]](./LifeSimulator/)
 2022 | Игра "Lines" (программно-аппаратная реализация на Arduino 2560) | [[c++]](./LinesArduino2560/)
-2022 | Ультразвуковой и инфракрасный дальномер (Arduino Pro Mini) | [[c++]](./Rangefinder/)
+2022 | Ультразвуковой и инфракрасный дальномер (программно-аппаратная реализация на Arduino Pro Mini) | [[c++]](./Rangefinder/)
